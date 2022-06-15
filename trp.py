@@ -11,6 +11,9 @@ soup = BeautifulSoup(r.content, 'html.parser')
 content = soup.find('div', class_='page-content')
 md = markdownify(str(content))
 
+# Fix section headers
+md = re.sub(r'#(#+)', r'\1', md)
+
 # Create section anchor links
 md = re.sub(r'^(#+) (\d[.\d\w]*?)\.? (.+?)$',
             r'\1 \2 \3 <a href="#\2" id="\2">#</a>',
@@ -40,4 +43,6 @@ md = re.sub(r'(\[.+?\]\()(\/.+?\))',
 )
 
 with open('trp.md', 'w') as f:
+    f.write(f"Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.\n")
+    f.write(f"Original available at {TRP_URL}\n\n")
     f.write(md)
