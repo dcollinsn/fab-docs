@@ -56,6 +56,6 @@ md = re.sub(r'(\[.+?\]\()(\/.+?\))',
 )
 
 with open('pg.md', 'w') as f:
-    f.write(f"Flesh and Blood Procedure and Penalty Guidelines, courtesy of Legend Story Studios.\n")
-    f.write(f"Original available at {PG_URL}\n\n")
+    f.write(f"Flesh and Blood Procedure and Penalty Guidelines, courtesy of Legend Story Studios.\n\n")
+    f.write(f"Original available at [{PG_URL}]({PG_URL})\n\n")
     f.write(md)

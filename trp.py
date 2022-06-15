@@ -43,6 +43,6 @@ md = re.sub(r'(\[.+?\]\()(\/.+?\))',
 )
 
 with open('trp.md', 'w') as f:
-    f.write(f"Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.\n")
-    f.write(f"Original available at {TRP_URL}\n\n")
+    f.write(f"Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.\n\n")
+    f.write(f"Original available at [{TRP_URL}]({TRP_URL})\n\n")
     f.write(md)
