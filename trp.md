@@ -1,7 +1,10 @@
+Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.
+Original available at https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/
+
 
 [Tournament Rules and Policy 1.8](https://fabtcg.com/documents/111/2022_02_11_Tournament_Rules_and_Policy_1.8_FINAL.pdf)
 
-### Introduction
+## Introduction
 
 Legend Story Studios (LSS) strives to provide players with the best play experience possible. This includes transparent tournament rules and guidelines to ensure a fair and fun play experience.
 
@@ -9,7 +12,7 @@ The purpose of this document is to provide transparency of rules, responsibiliti
 
 Updates to this document are scheduled to coincide with the release date of each major booster set. Updates whether scheduled or otherwise, will be announced through an update bulletin posted to the homepage of fabtcg.com. Changes to this document since its last publication are shown in summary of changes below.
 
-### Summary of Changes 11 February, 2022
+## Summary of Changes 11 February, 2022
 
 **1.1 Tournament Types:** Removed 10k from Calling, as amounts differ.
 
@@ -39,9 +42,9 @@ Updates to this document are scheduled to coincide with the release date of each
 
 **8.4 Proxy Cards:** Added additional exception for allowance of proxy cards.
 
-### 1 Tournament Information <a href="#1" id="1">#</a>
+## 1 Tournament Information <a href="#1" id="1">#</a>
 
-#### 1.1 Tournament Types <a href="#1.1" id="1.1">#</a>
+### 1.1 Tournament Types <a href="#1.1" id="1.1">#</a>
 
 Flesh and Blood tournaments are separated into two major categories: **Professional** and **Casual.**
 
@@ -49,7 +52,7 @@ Professional tournaments are run by Legend Story Studios (LSS) or Organized Play
 
 Casual tournaments can be run by any Tournament Organizer who has an active GEM (Game Event Manager) Tournament Organizer account.
 
-#### 1.2 Formats <a href="#1.2" id="1.2">#</a>
+### 1.2 Formats <a href="#1.2" id="1.2">#</a>
 
 There are two major tournament formats that Legend Story Studios supports: Constructed and Limited. Some tournaments may include both formats.
 
@@ -57,23 +60,23 @@ Constructed tournaments involve players preparing a deck beforehand and require 
 
 Legend Story Studios currently support the following official formats:
 
-#### Constructed formats
+### Constructed formats
 
 * Blitz
 * Classic Constructed
 
-#### Limited formats
+### Limited formats
 
 * Booster Draft
 * Sealed Deck
 
-#### Special formats
+### Special formats
 
 * Welcome Deck
 
 For detailed information on which cards are legal in official formats, please view the [Card Legality Policy](https://fabtcg.com/resources/rules-and-policy-center/card-legality-policy/).
 
-#### 1.3 Ratings <a href="#1.3" id="1.3">#</a>
+### 1.3 Ratings <a href="#1.3" id="1.3">#</a>
 
 Flesh and Blood uses two separate rating systems, XP and ELO, to track player performance in official tournaments.
 
@@ -93,7 +96,7 @@ ELO is used to rank players on a global professional leaderboard, and is used to
  
 Further information about the Flesh and Blood rating system can be found in the [Rules and Policy Center](https://fabtcg.com/resources/rules-and-policy-center/).
 
-#### 1.4 Scores, Standings and Tiebreakers <a href="#1.4" id="1.4">#</a>
+### 1.4 Scores, Standings and Tiebreakers <a href="#1.4" id="1.4">#</a>
 
 Tournaments are separated into rounds. Every round, each player plays a match against another player, unless they have been awarded a bye. The result of each match (win, loss, or draw), is reported to the Tournament Organizer who enters it into GEM (Game Event Manager) software. During the tournament, players improve their standing by gaining match points as follows:
 
@@ -126,7 +129,7 @@ Throughout the tournament, player standings (or rank) are determined by the foll
 
 Further information about tiebreakers can be found in the [Pairings and Tiebreaker Policy](https://fabtcg.com/resources/rules-and-policy-center/pairings-and-tiebreaker-policy/).
 
-#### 1.5 Time Limits <a href="#1.5" id="1.5">#</a>
+### 1.5 Time Limits <a href="#1.5" id="1.5">#</a>
 
 The following time limits are recommended for each round of the tournament, inclusive of start of game procedure:
 
@@ -147,7 +150,7 @@ The following time limits are recommended for booster draft operations:
 
 Time limits may be changed at the discretion of the Head Judge or Tournament Organizer. Deviations from the recommended time limits must be announced prior to the tournament beginning.
 
-#### 1.6 Number of Rounds <a href="#1.6" id="1.6">#</a>
+### 1.6 Number of Rounds <a href="#1.6" id="1.6">#</a>
 
 The following is the recommended number of swiss rounds for tournaments. It is recommended that Tournament Organizers follow this guideline. If the number of swiss rounds differ from the table, the Tournament Organizer must inform players at the time of registration or be clearly stated in event advertising.
 
@@ -164,9 +167,9 @@ Professional tournaments and multi-format tournaments may have a different struc
 | 227 - 409 | 9 | Top 8 |
 | 410+ | 10 | Top 8 |
 
-#### 
+### 
 
-#### 1.7 Identification <a href="#1.7" id="1.7">#</a>
+### 1.7 Identification <a href="#1.7" id="1.7">#</a>
 
 Identification may be required to participate in Flesh and Blood tournaments.
 
@@ -181,11 +184,11 @@ The following forms of identification are acceptable;
 * School ID card
 * Government issued ID card
 
-#### 1.8 GEM Player ID Number Duplication <a href="#1.8" id="1.8">#</a>
+### 1.8 GEM Player ID Number Duplication <a href="#1.8" id="1.8">#</a>
 
 A player may only have one GEM Player ID number. If a player has more than one GEM Player ID number, they must email op@fabtcg.com with details of all GEM Player ID numbers registered to their name. Failure to do this could result in all GEM Player ID numbers registered to that player being suspended.
 
-### 2 Tournament Roles and Responsibilities <a href="#2" id="2">#</a>
+## 2 Tournament Roles and Responsibilities <a href="#2" id="2">#</a>
 
 Each person at the tournament venue is considered to have one or more roles within the categories of **player** or **event staff**.
 
@@ -206,21 +209,21 @@ Event staff can have the role of:
 
 At tier 0 and tier 1 tournaments (excluding skirmish), a person may be both a competitor and event staff. In tier 2 tournaments and above (including skirmish), event staff can NOT be competitors.
 
-#### 2.1 Competitor <a href="#2.1" id="2.1">#</a>
+### 2.1 Competitor <a href="#2.1" id="2.1">#</a>
 
 A **Competitor** is considered a player who is competing in the tournament and is part of a match in progress. A competitor is responsible for:
 
 * Acting in a respectful way to players and event staff, and to the integrity of the game.
 * Complying with the rules and policies of the game.
 
-#### 2.2 Spectator <a href="#2.2" id="2.2">#</a>
+### 2.2 Spectator <a href="#2.2" id="2.2">#</a>
 
 A **Spectator** is considered anyone who is physically present at the tournament but is not part of a match in progress or an event staff. A spectator is responsible for:
 
 * Remaining silent and passive towards competitors, to ensure they do not influence the outcome of any match in progress.
 * Discretely alerting a Judge or event staff if they have observed a game action or otherwise that is in violation of our rules or policy.
 
-#### 2.3 Tournament Organizer <a href="#2.3" id="2.3">#</a>
+### 2.3 Tournament Organizer <a href="#2.3" id="2.3">#</a>
 
 A **Tournament Organizer** is the designated person or persons that are responsible for organising and maintaining the logistics of a tournament. A Tournament Organizer is responsible for:
 
@@ -230,7 +233,7 @@ A **Tournament Organizer** is the designated person or persons that are responsi
 * Ensuring there are enough event staff and they are adequately knowledgeable about Flesh and Blood rules and policies.
 * Reporting the required event information to Legend Story Studios.
 
-#### 2.4 Head Judge <a href="#2.4" id="2.4">#</a>
+### 2.4 Head Judge <a href="#2.4" id="2.4">#</a>
 
 A **Head Judge** is an official who oversees the tournament, manages the Judge team, and makes the final decision over any ruling disputes that players may have. A In addition to Judge responsibilities (2.5. Judge), a Head Judge is responsible for:
 
@@ -239,7 +242,7 @@ A **Head Judge** is an official who oversees the tournament, manages the Judge t
 * Assigning Judges with tasks and ensuring they have adequate knowledge to carry out tasks assigned to them.
 * Providing feedback to Judges to support their rules, policy, and personal development.
 
-#### 2.5 Judge <a href="#2.5" id="2.5">#</a>
+### 2.5 Judge <a href="#2.5" id="2.5">#</a>
 
 A **Judge** is an official who is tasked with settling disputes between players and enforcing the rules and policy of the game to ensure tournament matches are played out fairly. A judge is responsible for:
 
@@ -248,7 +251,7 @@ A **Judge** is an official who is tasked with settling disputes between players 
 * Answer questions a player may have about the game or tournament.
 * Pausing and investigating games when an infraction is observed, even if a judge call is not made.
 
-#### 2.6 Scorekeeper <a href="#2.6" id="2.6">#</a>
+### 2.6 Scorekeeper <a href="#2.6" id="2.6">#</a>
 
 A **scorekeeper** is an official that collects and processes the information of the tournament to generate the pairings, standings, and other records throughout the tournament. A scorekeeper is responsible for:
 
@@ -257,13 +260,13 @@ A **scorekeeper** is an official that collects and processes the information of 
 * Resolving any incorrect results entries or player information.
 * Ensuring the tournament information entered in GEM is legitimate, true, and correct.
 
-#### 2.7 Media Representative <a href="#2.7" id="2.7">#</a>
+### 2.7 Media Representative <a href="#2.7" id="2.7">#</a>
 
 A **media representative** is an official who is doing coverage for the event. A media representative is responsible for:
 
 * Reporting what is happening during the tournament in a way that competitors are unable to gain information that could influence the outcome of a match in progress.
 
-#### 2.8 LSS Representative <a href="#2.8" id="2.8">#</a>
+### 2.8 LSS Representative <a href="#2.8" id="2.8">#</a>
 
 An **LSS representative** is an official who observes the event and interacts with players. An LSS representative may also hold other event roles, such as (but not limited to) Tournament Organizer, Judge, scorekeeper or media representative. An LSS representative is responsible for:
 
@@ -272,15 +275,15 @@ An **LSS representative** is an official who observes the event and interacts wi
 * Gaining feedback from event staff and through observation, to improve operations and overall event experience for event staff and players.
 * Administer Judge exams.
 
-#### 2.9 Third-party Representative <a href="#2.9" id="2.9">#</a>
+### 2.9 Third-party Representative <a href="#2.9" id="2.9">#</a>
 
 A **third-party representative** is an individual involved in an official capacity who is not part of the operations of the tournament or an LSS representative. Examples of a third-party representative include (but are not limited to) vendors, artists, venue facility staff. A third-party representative is responsible for:
 
 * Fulfilling the duties of their position with the third party in a way that does not influence the outcome of a match in progress.
 
-### 3 Tournament Logistics <a href="#3" id="3">#</a>
+## 3 Tournament Logistics <a href="#3" id="3">#</a>
 
-#### 3.1 Match Structure <a href="#3.1" id="3.1">#</a>
+### 3.1 Match Structure <a href="#3.1" id="3.1">#</a>
 
 Flesh and Blood rounds are played until one player has won a pre-set number of games or until the round timer runs out. If the round timer runs out and end of match procedure is completed (see section 3.3), the player with the most game wins in the match is declared the winner. If both players have the same number of games wins, the match is declared a draw.
 
@@ -288,7 +291,7 @@ The amount of games required to win a match is decided by the Tournament Organiz
 
 The recommended match structure is best of one for all formats.
 
-#### 3.2 Start of Game Procedure <a href="#3.2" id="3.2">#</a>
+### 3.2 Start of Game Procedure <a href="#3.2" id="3.2">#</a>
 
 The start of game procedure happens in the following order:
 
@@ -306,7 +309,7 @@ If there is more than one game in the match, the player who lost the last game o
 
 The maximum time allowed for the start of game procedure is 5 minutes for the first game of a match, and 3 minutes for each subsequent game in the match (if there is more than one game in the match.)
 
-#### 3.3 End of Match Procedure <a href="#3.3" id="3.3">#</a>
+### 3.3 End of Match Procedure <a href="#3.3" id="3.3">#</a>
 
 When time is called in the round and a winner of the current game is yet to be determined, the turn player completes their turn, then 1 additional turn is played. At the conclusion of the additional turn, if a winner of the game has not been determined, the current game is a draw.
 
@@ -319,7 +322,7 @@ If the match being played is during an elimination round of the tournament, and 
 
 If game wins of an elimination match consisting of more than 1 game is tied after the completion of the additional turn, or time has been called before the first turn of a game has begun and no player has more game wins than another player, then players will start a new game with 4 turns total (2 turns per player). At the end of the fourth turn, the hero with the highest life total is declared the winner of the match. If life totals are tied, the game will continue until one hero has a higher life total, at which point the hero with the highest life total is immediately declared the winner of the match. *(This is only applicable if there is more than 1 game in the match)*.
 
-#### 3.4 Conceding <a href="#3.4" id="3.4">#</a>
+### 3.4 Conceding <a href="#3.4" id="3.4">#</a>
 
 A player may concede, for any reason, at any point before or during a match, but not when time is called in a round. This is to prevent a “concession period” where a match becomes a discussion on who should concede to avoid a draw. In instances where a player wants to concede after time is called, the player will not be dropped if there is a genuine reason why they need to stop playing the current match; Examples include but are not limited to:
 
@@ -336,11 +339,11 @@ For avoidance of doubt, a player may ask for a concession before presenting thei
 
 If a player refuses to play a game, it is assumed that player is conceding the game. If both players refuse to play a game or match, the match result will be declared a match loss for both players.
 
-#### 3.4a Intentional Draws <a href="#3.4a" id="3.4a">#</a>
+### 3.4a Intentional Draws <a href="#3.4a" id="3.4a">#</a>
 
 Players may intentionally draw a game at any time. An intentional draw results in both players receiving 0 match points.
 
-#### 3.5 Dropping from a Tournament <a href="#3.5" id="3.5">#</a>
+### 3.5 Dropping from a Tournament <a href="#3.5" id="3.5">#</a>
 
 A player may drop from a tournament at any time. A player must inform the scorekeeper before the pairings are generated or else it will be assumed the player is playing the next round. If a player drops after pairings have been generated, they will be considered to have conceded the match.
 
@@ -354,11 +357,11 @@ If a player drops from the tournament after they have been announced in the top 
 
 Dropped players may be re-entered into a tournament at the discretion of the Head Judge.
 
-#### 3.6 Time Extensions <a href="#3.6" id="3.6">#</a>
+### 3.6 Time Extensions <a href="#3.6" id="3.6">#</a>
 
 If a Judge pauses a match for any reason while the round timer is running, the players in the affected match will be given an equal amount of additional time to finish the match. Examples include (but are not limited to), Judge calls, deck checks, and event coverage requests.
 
-#### 3.7 Deck Registration <a href="#3.7" id="3.7">#</a>
+### 3.7 Deck Registration <a href="#3.7" id="3.7">#</a>
 
 Deck / card pool registration is required for all Professional tournaments. It is only required for Casual tournaments if specified by the Tournament Organizer (TO).
 
@@ -401,13 +404,13 @@ All deck / card pool registration sheets must clearly display the players name a
 
 Players may request to see their registration sheet between matches.
 
-#### 3.8 Deck Checks <a href="#3.8" id="3.8">#</a>
+### 3.8 Deck Checks <a href="#3.8" id="3.8">#</a>
 
 Deck checks will be performed at all Professional tournaments to ensure fair play. The Head Judge reserves the right to deck check any player, including when they are in the middle of a match or between rounds.
 
 In Casual tournaments, deck checks will be at the Tournament Organizers discretion.
 
-#### 3.9 Sleeves <a href="#3.9" id="3.9">#</a>
+### 3.9 Sleeves <a href="#3.9" id="3.9">#</a>
 
 A player may use plastic card sleeves on their cards provided they are all of equal length with identical sleeve backs.
 
@@ -425,7 +428,7 @@ Cards that are not included in your deck zone, such as hero cards, equipment and
 
 The Head Judge has the final say on whether any type of sleeve is not allowed to be used in the tournament.
 
-#### 3.10 Tournament Materials Required <a href="#3.10" id="3.10">#</a>
+### 3.10 Tournament Materials Required <a href="#3.10" id="3.10">#</a>
 
 Players are responsible for having their own materials required to play the event, including (but not limited to):
 
@@ -438,7 +441,7 @@ Players are responsible for having their own materials required to play the even
 
 Players are responsible for looking after their own belongings at all times.
 
-#### 3.11 Note Taking <a href="#3.11" id="3.11">#</a>
+### 3.11 Note Taking <a href="#3.11" id="3.11">#</a>
 
 Note taking is not allowed during Flesh and Blood tournaments. Note taking is a broad term that refers to the use of aids to record information relating to the game. The exceptions to this rule include meta-game information and invisible public information about the current game state. This includes (but is not limited to):
 
@@ -456,7 +459,7 @@ All other forms of note taking are not allowed, including tracking hidden inform
 * Ordering your graveyard and/or banished zone to track cards left in your deck. (Separating cards for gameplay/communication purposes is acceptable, such as cards with “Blood debt”, or “play this from the banished zone”.)
 * Using dice to track how many cards you or your opponent has drawn.
 
-#### 3.12 Calling a Judge <a href="#3.12" id="3.12">#</a>
+### 3.12 Calling a Judge <a href="#3.12" id="3.12">#</a>
 
 Player’s may request the assistance of a judge at any time in matters relating to the tournament.
 
@@ -476,9 +479,9 @@ If the player must leave the table with the game paused (such as when they are a
 
 Players are allowed to call a judge and request a toilet break provided they are not doing so to try to gain an advantage, intentionally disrupt the pace of play, or cause excessive disruption to tournament operations. Players using toilet breaks to try to gain an advantage will be penalized.
 
-### 4 Tournament Communications <a href="#4" id="4">#</a>
+## 4 Tournament Communications <a href="#4" id="4">#</a>
 
-#### 4.1 Player Communication <a href="#4.1" id="4.1">#</a>
+### 4.1 Player Communication <a href="#4.1" id="4.1">#</a>
 
 Players are expected to maintain clear communication during the course of a match. Public information must be made clear, including any changes to that information. If a player is unable or unwilling to communicate this information, it’s encouraged that a Judge is called to assist.
 
@@ -505,7 +508,7 @@ Hidden information includes (but is not limited to):
 * Cards in hand that are not revealed.
 * Cards that are face down in a zone.
 
-#### 4.2 Triggered Abilities <a href="#4.2" id="4.2">#</a>
+### 4.2 Triggered Abilities <a href="#4.2" id="4.2">#</a>
 
 Players are responsible for their own abilities. This includes all triggered abilities such as (but not limited to) hit triggers, start of turn effects and end of turn effects. A player must point out their mandatory triggered abilities. Intentionally ignoring a mandatory trigger is cheating. Players are not required to point out triggered abilities of their opponents although it is allowed.
 
@@ -513,7 +516,7 @@ Triggered abilities are considered missed once the game state has moved beyond t
 
 Please see the Penalty Guidelines in the Rules and Policy Centre for more information about missed triggered abilities and how to handle them: [Penalty Guidelines](https://fabtcg.com/resources/rules-and-policy-center/penalty-guidelines/)
 
-#### 4.3 Player Appeals <a href="#4.3" id="4.3">#</a>
+### 4.3 Player Appeals <a href="#4.3" id="4.3">#</a>
 
 A player may appeal a Judge ruling and request the Head Judge to make the final ruling. In the event there is no Head Judge, a Judge may discuss with another Judge to determine the final ruling.
 
@@ -521,13 +524,13 @@ In an event where there are floor Judges in addition to a Head Judge, it is pref
 
 When the Head Judge is the first responder, the player may request a second opinion from another Judge before the Head Judge's ruling becomes final. In this instance, regardless of whether the Head Judge adjusts their initial ruling, the Head Judge will make the final decision on how the ruling will be applied
 
-#### 4.4 Game Layout <a href="#4.4" id="4.4">#</a>
+### 4.4 Game Layout <a href="#4.4" id="4.4">#</a>
 
 Players are expected to follow the Flesh and Blood official zone layout. This can be modified within reason, to meet physical requirements such as being left-handed. Any changes from the official zone layout must be clear to the opponent while playing.
 
 There are many cards in Flesh and Blood that become or create permanents in the arena, such as auras and items, which don’t have purpose-built zones for them. While these permanents are in the arena, they must be easily identifiable from other cards in the official zone layout.
 
-#### 4.5 Tokens <a href="#4.5" id="4.5">#</a>
+### 4.5 Tokens <a href="#4.5" id="4.5">#</a>
 
 At professional level tournaments, if you are playing with cards that create tokens, you are required to have the appropriate token card(s) to represent them. If your deck is able to create multiple instances of the same token, you may use a dice placed on top of the token card to represent how many of that token you control.
 
@@ -541,9 +544,9 @@ At professional level events, players who have cards with effects that create To
 * If you have a card with an effect that generates a Runechant token, you may need at least 2 Runechant token cards, one to represent Runechant tokens that have triggered due to playing an attack action card or attacking with a weapon, and one to represent Runechant tokens that have not triggered because they have been created after the trigger event.
 * If you have Tectonic Plating, you must have 2 Seismic Surge token cards. When the Seismic Surge effect triggers, the token must be placed in or next to the pitch zone until end of turn. If Tectonic Plating is activated during the same turn, a second Seismic Surge token must be put into the arena.
 
-### 5 Tournament Violations <a href="#5" id="5">#</a>
+## 5 Tournament Violations <a href="#5" id="5">#</a>
 
-#### 5.1 Cheating <a href="#5.1" id="5.1">#</a>
+### 5.1 Cheating <a href="#5.1" id="5.1">#</a>
 
 Cheating in all forms will not be tolerated in the Flesh and Blood community. All tournament violations will be reviewed by the Head Judge and if they believe a player has cheated, the appropriate penalty will be issued. 
 
@@ -557,7 +560,7 @@ Examples include (but are not limited to):
 
 Please see the Penalty Guidelines in the Rules and Policy Centre for more information <https://fabtcg.com/rules-and-policies/>.
 
-#### 5.2 Bribery <a href="#5.2" id="5.2">#</a>
+### 5.2 Bribery <a href="#5.2" id="5.2">#</a>
 
 Bribery is offering or accepting a reward or incentive in exchange for determining the result of a game or match. 
 
@@ -571,13 +574,13 @@ Players are allowed to offer a prize split provided it’s not tied to a match r
 
 It is not bribery when players agree to evenly split their eventual prizes, as long as the agreement does not determine the outcome of a match or game. 
 
-#### 5.3 Wagering <a href="#5.3" id="5.3">#</a>
+### 5.3 Wagering <a href="#5.3" id="5.3">#</a>
 
 Players and event staff may not wager, ante or bet on the outcome or result of a tournament, match or game. 
 
 Players may not use a random method to determine the outcome of a tournament, match or game.
 
-#### 5.4 Unsporting Conduct <a href="#5.4" id="5.4">#</a>
+### 5.4 Unsporting Conduct <a href="#5.4" id="5.4">#</a>
 
 Players must behave in a respectful manner to both their opponent, event staff, and anyone in the tournament area.
 
@@ -591,7 +594,7 @@ Unsporting conduct includes (but is not limited to):
 
 Unsporting conduct violations are taken very seriously. Legend Story Studios strives to ensure a safe and welcoming environment for all players, event staff, and the general public at all Flesh and Blood tournaments.
 
-#### 5.5 Slow Play <a href="#5.5" id="5.5">#</a>
+### 5.5 Slow Play <a href="#5.5" id="5.5">#</a>
 
 It’s important that players maintain a pace of play that allows a match to finish within the round time limit.
 
@@ -599,7 +602,7 @@ If a player takes an unreasonable amount of time to make a decision, it is consi
 
 Please see the Penalty Guidelines in the Rules and Policy Centre for more information <https://fabtcg.com/rules-and-policies/>.
 
-#### 5.6 Outside Assistance <a href="#5.6" id="5.6">#</a>
+### 5.6 Outside Assistance <a href="#5.6" id="5.6">#</a>
 
 During a match, draft, or when directed by the Tournament Organizer or Judge (e.g. during limited deck registration), players may not seek or offer outside assistance from or to any player, spectator, official, or device, including referring to personal notes made prior to or during the event. The exception to this is personal notes (but not other forms of outside assistance) may be referred to during the start of game procedure up to when the decks are presented. For example, “sideboard guides” may be referred to from the moment the heroes are revealed, to when players present their decks to their opponent.
 
@@ -616,7 +619,7 @@ Players may use aides or have additional personnel present in order to play the 
 * Players that are hard of hearing may use hearing aids.
 * Players with physical disabilities that prevent them from holding or moving cards may have a personal aide to issue instructions to and to maintain the board state.
 
-#### 5.7) Order of Cards in Graveyards
+### 5.7) Order of Cards in Graveyards
 
 A player may not change the order of cards in an opponent's graveyard.
 
@@ -628,9 +631,9 @@ Examples include (but are not limited to):
 * Ordering cards by card type
 * Ordering cards by pitch value
 
-### 6 Limited Format Tournament Procedures <a href="#6" id="6">#</a>
+## 6 Limited Format Tournament Procedures <a href="#6" id="6">#</a>
 
-#### 6.1 Booster Draft <a href="#6.1" id="6.1">#</a>
+### 6.1 Booster Draft <a href="#6.1" id="6.1">#</a>
 
 A booster draft begins with all players sitting next to each other in a circular formation (referred to as a draft pod). Each player is required to have 3 booster packs in front of them that are identical to every other player in the draft. The recommended number of players for a booster draft is 8.
 
@@ -690,13 +693,13 @@ Players may not open or pick up a pack passed to them, until the Judge overseein
 | 2 | 5 seconds |
 | 1 | - |
 
-#### 6.2 Sealed Deck <a href="#6.2" id="6.2">#</a>
+### 6.2 Sealed Deck <a href="#6.2" id="6.2">#</a>
 
 It’s recommended that players use 6 booster packs from the same set for sealed deck. The cards opened from these packs are referred to as a player’s **card pool**.
 
 Players must construct a 30-card minimum deck using only the contents of the booster packs they opened. *(For more information about limited format deck construction, see section 6.3.)*
 
-#### 6.3 Deck Construction <a href="#6.3" id="6.3">#</a>
+### 6.3 Deck Construction <a href="#6.3" id="6.3">#</a>
 
 Decks in limited format tournaments must contain a minimum of 30 cards (not including hero, weapon(s), and equipment cards). There is no maximum deck size.
 
@@ -716,7 +719,7 @@ Players must construct their deck and choose equipment, using only cards from th
 
 A limited format deck may contain any number of copies of each unique card (unlike constructed formats). For example, if your sealed pool contains 5 copies of Scar for a Scar (1), you may include all 5 copies in your deck. The exception to this are cards with the keyword **Legendary** *(You may only have 1 [CARD NAME] in your deck.)*. Players may not have more than 1 copy of each unique card with the **Legendary** keyword in their deck.
 
-#### 6.4 Heroes and Weapons <a href="#6.4" id="6.4">#</a>
+### 6.4 Heroes and Weapons <a href="#6.4" id="6.4">#</a>
 
 Players may add young hero and weapon card(s) to their card pool during deck construction. Cards added this way are usually from a publicly available pool of young hero and weapon token cards provided by the Tournament Organizer or by pooling the token cards opened between all players in the event.
 
@@ -724,7 +727,7 @@ Young hero and weapon token cards are plentifully available in booster packs. Ea
 
 Players may provide their own young hero and/or weapon cards.
 
-#### 6.5 Cracked Bauble <a href="#6.5" id="6.5">#</a>
+### 6.5 Cracked Bauble <a href="#6.5" id="6.5">#</a>
 
 *(Cracked Bauble exists to support booster draft and sealed deck formats. A player may add any number of Cracked Bauble to their card pool. Typically, a player would only do this if they did not have enough legally playable cards to make a 30-card minimum deck.)*
 
@@ -732,7 +735,7 @@ Cracked Bauble is a card that is found in the token slot of a Flesh and Blood bo
 
 Players are allowed to add any number of Cracked Bauble to their card pool during deck construction. This is only recommended if a player cannot construct a 30-card minimum deck from their card pool. *(This would normally only occur in booster draft, and only when a player drafted too many cards spread across multiple classes.)*
 
-#### 6.6 Card Pool Registration <a href="#6.6" id="6.6">#</a>
+### 6.6 Card Pool Registration <a href="#6.6" id="6.6">#</a>
 
 Card pool registration is required at all Professional tournaments.
 
@@ -775,9 +778,9 @@ It is recommended that the sort and register process take no longer than 20 minu
 
 It is recommended that the validate process take no longer than 5 minutes.
 
-### 7 Tournament Floor Rules <a href="#7" id="7">#</a>
+## 7 Tournament Floor Rules <a href="#7" id="7">#</a>
 
-#### 7.1 Buying, Selling, and Trading Cards <a href="#7.1" id="7.1">#</a>
+### 7.1 Buying, Selling, and Trading Cards <a href="#7.1" id="7.1">#</a>
 
 Players are expected to follow the rules and policy of the Tournament Organizer. 
 
@@ -787,13 +790,13 @@ If a Flesh and Blood tournament is being held at a public venue, it’s recommen
 
 At events run by Legend Story Studios, unless otherwise stated in the event information published on fabtcg.com, players are welcome to buy, sell, and trade Flesh and Blood single cards in the venue. Buying and/or selling goods or services other than Flesh and Blood single cards in the tournament venue without permission from a Legend Story Studios company representative is strictly prohibited. Any person caught buying or selling goods this way may be asked to leave the venue and could be subject to further penalties.
 
-#### 7.2 Disruptive People <a href="#7.2" id="7.2">#</a>
+### 7.2 Disruptive People <a href="#7.2" id="7.2">#</a>
 
 People who create an unwelcoming or unpleasant atmosphere for others can damage the integrity of an event. People who abuse, insult, harass, or negatively impact another person's tournament experience, may be asked to leave the venue by the Tournament Organizer. 
 
 All people that attend a Flesh and Blood event are expected to have an acceptable level of hygiene. If a person does not meet the basic requirements of acceptable hygiene, they may be asked to resolve the issue, or asked to leave the venue.
 
-#### 7.3 Tournament Eligibility <a href="#7.3" id="7.3">#</a>
+### 7.3 Tournament Eligibility <a href="#7.3" id="7.3">#</a>
 
 The following people are not eligible to play in any Flesh and Blood tournaments:
 
@@ -806,11 +809,11 @@ Employees and independent contractors of Legend Story Studios (LSS), and their s
 
 In addition to this, whenever an employee or independent contractor of LSS (but not extending to their spouse or legal dependents) attends a Casual tournament, they must introduce themselves and make their position known to the Tournament Organizer, who at their discretion, may deny them entry into the event.
 
-#### 7.4 Suspended Players <a href="#7.4" id="7.4">#</a>
+### 7.4 Suspended Players <a href="#7.4" id="7.4">#</a>
 
 Suspended players are not allowed to attend, spectate, or judge Flesh and Blood events. If a suspended player attends a Flesh and Blood event, they will be asked to leave the venue and risk their suspension being extended.
 
-#### 7.5 Prohibited Items <a href="#7.5" id="7.5">#</a>
+### 7.5 Prohibited Items <a href="#7.5" id="7.5">#</a>
 
 Items and/or weapons that are offensive or dangerous to the safety of other people are strictly prohibited from all Flesh and Blood events. Such items include (but are not limited to): 
 
@@ -820,25 +823,25 @@ Items and/or weapons that are offensive or dangerous to the safety of other peop
 
 People attending Flesh and Blood events must not be under the influence of alcohol or recreational drugs. People found in violation of this may be asked to leave the venue and may face further penalties.
 
-#### 7.6 Confiscation of Materials Infringing IP Rights <a href="#7.6" id="7.6">#</a>
+### 7.6 Confiscation of Materials Infringing IP Rights <a href="#7.6" id="7.6">#</a>
 
 If a player is seen in the possession of materials that are infringing the IP rights of Legend Story Studios, the Tournament Organizer may request the player to handover possession of the infringing items for destruction. If the player declines to do so, the player will be DQ'd without prizes from the tournament. A detailed policy regarding IP usage rights can be found here [Terms of Use Licensed Assets](https://fabtcg.com/resources/terms-use-licensed-assets/).
 
 An example of materials that infringe the IP rights of Legend Story Studios is unofficial play mats that include unauthorized use of artwork owned by Legend Story Studios and/or unauthorized use of the Flesh and Blood logo or Legend Story Studios logo.
 
-### 8 Card Legality <a href="#8" id="8">#</a>
+## 8 Card Legality <a href="#8" id="8">#</a>
 
-#### 8.1 Card Legality <a href="#8.1" id="8.1">#</a>
+### 8.1 Card Legality <a href="#8.1" id="8.1">#</a>
 
 Players are responsible for knowing if their cards are tournament legal. If unsure, they should ask the Head Judge.
 
 Cards may only be included in a deck if they are legal in the format being played. Card legality is managed through the Card Legality Policy document available in the [Rules and Policy Center](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/).
 
-#### 8.2 Reprints <a href="#8.2" id="8.2">#</a>
+### 8.2 Reprints <a href="#8.2" id="8.2">#</a>
 
 Reprints are cards that have been printed at a previous time. Some cards may be reprinted with new art and/or updated card text. These cards are still classified as a reprints. Cards that are reprinted are legal to play with as soon as they are available.
 
-#### 8.3 Errata’d Cards <a href="#8.3" id="8.3">#</a>
+### 8.3 Errata’d Cards <a href="#8.3" id="8.3">#</a>
 
 From time to time, cards may have their effects updated to reflect what the intended purpose and function of the card should be. A card’s text as shown in the official Flesh and Blood card database (coming soon), is considered to be the true and correct version of the card.
 
@@ -846,7 +849,7 @@ If a card has received errata, players may continue playing with any printed ver
 
 Whenever a card receives errata it will be announced via a card errata bulletin on fabtcg.com.
 
-#### 8.4 Proxy Cards <a href="#8.4" id="8.4">#</a>
+### 8.4 Proxy Cards <a href="#8.4" id="8.4">#</a>
 
 Proxy cards are not permitted in official play.
 
@@ -858,17 +861,17 @@ The Head Judge may issue a proxy card to a player at their discretion. In this c
 * Printed Ira Welcome decks at a Learn to Play event.
 * Exceptional circumstances where a legal card is only available printed with a foil finish and the foiling is the root cause of warping causing the card to be marked in the deck.
 
-#### 8.5 Misprinted Cards <a href="#8.5" id="8.5">#</a>
+### 8.5 Misprinted Cards <a href="#8.5" id="8.5">#</a>
 
 On rare occasions misprinted cards will make their way into Flesh and Blood products. These cards are tournament legal as long as it’s clear what the card is, and it’s not distinguishable from any other cards while face down in your deck.
 
 If it’s clear what the misprinted card is, but it has card information missing such as card text, cost, pitch value, power, or defense, you will be required to have a printed copy available that your opponent can refer to.
 
-#### 8.6 Altered Cards <a href="#8.6" id="8.6">#</a>
+### 8.6 Altered Cards <a href="#8.6" id="8.6">#</a>
 
 Altered art cards are legal in official tournament play so long as the modifications do not cause the card to be unrecognizable, contain offensive material, give strategic assistance, or cause the card to be distinguishable from other cards while face down in your deck. If you are unsure if your card is considered 'marked', check with the Head Judge before a tournament.
 
 Printed cards are not physical modifications of official Flesh and Blood cards, and thus are not legal for tournament play (See 8.4 Proxy Cards). This does not apply to cards with the token type (not to be confused with token rarity, see 4.5 Tokens).
 
-[##### Change Log - Tournament Rules and Policy 11th Feb 2022](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/change-log-tournament-rules-and-policy/)
+[#### Change Log - Tournament Rules and Policy 11th Feb 2022](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/change-log-tournament-rules-and-policy/)
 
