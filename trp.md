@@ -1,5 +1,6 @@
 Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.
-Original available at https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/
+
+Original available at [https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/)
 
 
 [Tournament Rules and Policy 1.8](https://fabtcg.com/documents/111/2022_02_11_Tournament_Rules_and_Policy_1.8_FINAL.pdf)
