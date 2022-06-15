@@ -1,5 +1,5 @@
 
-[Tournament Rules and Policy 1.8](/documents/111/2022_02_11_Tournament_Rules_and_Policy_1.8_FINAL.pdf)
+[Tournament Rules and Policy 1.8](https://fabtcg.com/documents/111/2022_02_11_Tournament_Rules_and_Policy_1.8_FINAL.pdf)
 
 ### Introduction
 

@@ -32,5 +32,12 @@ md = re.sub(r'\n(?=[^\[]+\])', '', md)
 md = re.sub(r'[ \t]+', ' ', md)
 md = re.sub(r'\n\n+', '\n\n', md)
 
+# Should be a link to fabtcg
+md = re.sub(r'(\[.+?\]\()(\/.+?\))',
+            r'\1https://fabtcg.com\2',
+            md,
+            flags=0,
+)
+
 with open('trp.md', 'w') as f:
     f.write(md)
