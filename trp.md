@@ -3,55 +3,68 @@ Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.
 Original available at [https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/)
 
 
-[Tournament Rules and Policy 1.8](https://fabtcg.com/documents/111/2022_02_11_Tournament_Rules_and_Policy_1.8_FINAL.pdf)
+[Tournament Rules and Policy 1.9](https://fabtcg.com/documents/158/2022_06_20_Tournament_Rules_and_Policy_1.9_FINAL.pdf)
 
 ## Introduction
 
 Legend Story Studios (LSS) strives to provide players with the best play experience possible. This includes transparent tournament rules and guidelines to ensure a fair and fun play experience.
 
-The purpose of this document is to provide transparency of rules, responsibilities and procedures to ensure there is fair play at all levels of competition.
+The purpose of this document is to provide transparency of rules, responsibilities, and procedures to ensure there is fair play at all levels of competition.
 
 Updates to this document are scheduled to coincide with the release date of each major booster set. Updates whether scheduled or otherwise, will be announced through an update bulletin posted to the homepage of fabtcg.com. Changes to this document since its last publication are shown in summary of changes below.
 
-## Summary of Changes 11 February, 2022
+## Summary of Changes 20 June 2022
 
-**1.1 Tournament Types:** Removed 10k from Calling, as amounts differ.
+**1.1 Tournament Types:** Significant rewrite to incorporate the new casual and competitive REL.
 
-**1.8 GEM Player ID Number Duplication:** Update policy for duplicate played gem IDs
+**1.3 Ratings:** Updated XP and ELO sections to reflect when they are relevant in the new REL system.
 
-**2. Tournament Roles and Responsibilities:** Added that tournament staff can not compete tier 2 tournaments and above (including tier 1 Skirmish events).
+**1.4 Scores, Standings and Tiebreakers:** Corrected Cumulative Tiebreaker to reflect the actual system used by the tiebreakers in the software.
 
-**2.2 Spectator:** Updated that spectators should “discreetly” call a judge when they witness an infraction, as opposed to stopping the game themselves.
+**3.4 Conceding:** Updated concession policy to allow players to concede AFTER time is called, if no in-game action has been taken. Once an action is taken, the player’s are committed to finishing the game and can not concede without a good reason.
 
-**2.4 Head Judge:** Added that the head judge’s responsibilities also include that of a judge.
+**3.7 Deck Registration:** Updated policy to incorporate new casual and competitive REL. Corrected requirement for 0 pitch cards to be included with 1 pitch (red) cards.
 
-**2.5 Judge:** Added that a judge can pause and investigate a game if they witness an infraction and does not require a judge call from either player.
+**3.9 Sleeves:** Updated policy to incorporate new casual and competitive REL.
 
-**3.4 Conceding:** Updated that players may now concede for any reason during a game before time is called, but must still call a judge to oversee the concession. Players can still not concede for any reason after time is called in the round. (Also updated to gender neutral language)
+**4.5 Tokens:** Updated policy to incorporate new casual and competitive REL.
 
-**3.7 Deck Registration:** Added that deck-lists at professional-level tournaments must be provided with full english card names. Card name monikers and abbreviations are not allowed.
+**6.1 Booster Draft:** Updated policy to incorporate new casual and competitive REL. Added policy surrounding sets that contain double-faced cards and token-rarity cards other than heroes and weapons.
 
-**3.12 Calling a Judge:** Updated the section name from “Toilet Breaks” and expanded the section to include the method for calling a judge and other details..
+**6.3 Deck Construction:** Updated policy to include token-rarity cards other than heroes and weapons.
 
-**4.1 Player Communication:** Added that a player can not be forced to physically track the public information of a game state (although it is encouraged), unless by the direction of the Tournament Organizer, such as for coverage reasons.
+**6.4 Token-Rarity Cards:** Updated section title and policy to include token-rarity cards other than heroes and weapons.
 
-**4.5 Tokens:** Added that tokens must not be under other cards if they do not exist or are not in-play and that tokens that are copies can be any non-card object within reason as long as both players know what it represents.
+**7.3 Tournament Eligibility:** Removed policy that prevented family of LSS members tournaments without special exceptions.
 
-**5.6 Outside Assistance:** Updated to allow collaboration during limited events (such as before rounds), unless specified by the tournament organizer. Added that allowances to outside assistance can be made for accessibility.
+**7.4 Banned and Suspended Players:** Updated section title. Corrected section to reflect the banned and restricted statuses more accurately.
 
-**6.1 Booster Draft:** Updated recommendations for draft times, and specified that casual tournaments be untimed, and that the tournament organizer must declare if the draft timing in a timed draft will be run differently before the draft begins.
+**8.4 Proxy Cards:** Updated paragraph to clarify that proxy cards are legal for the tournament they are issued for (by the Head Judge)
 
-**8.4 Proxy Cards:** Added additional exception for allowance of proxy cards.
+**8.7 Double-Faced and Placeholder cards:** Added section that covers double-faced cards.
 
 ## 1 Tournament Information <a href="#1" id="1">#</a>
 
 ### 1.1 Tournament Types <a href="#1.1" id="1.1">#</a>
 
-Flesh and Blood tournaments are separated into two major categories: **Professional** and **Casual.**
+Flesh and Blood tournaments are separated into 4 tiers of play, and are run under 3 different levels of rules enforcement.
 
-Professional tournaments are run by Legend Story Studios (LSS) or Organized Play partners appointed by LSS. Examples include the World Championship, National Championships and The Calling tournaments.
+| Tier | Tournament | REL |
+| --- | --- | --- |
+| 1 | On-demand / Play Anywhere | Casual |
+| 1 | Armory | Casual |
+| 1 | Prerelease / World Premiere | Casual |
+| 1 | Skirmish | Casual |
+| 2 | Road to Nationals | Competitive |
+| 2 | Pro Quest | Competitive |
+| 2 | Battle Hardened | Competitive |
+| 3 | Calling (day 1) | Competitive |
+| 3 | Calling (day 2+) | Professional |
+| 3 | Nationals | Professional |
+| 4 | ProTour | Professional |
+| 4 | World Championship | Professional |
 
-Casual tournaments can be run by any Tournament Organizer who has an active GEM (Game Event Manager) Tournament Organizer account.
+Tier 1 and 2 tournaments can be run by any Tournament Organizer who has an active GEM (Game Event Manager) Tournament Organizer account, with some events requiring an invite from LSS to run. Tier 3 and 4 tournaments are run by Legend Story Studios (LSS) or Organized Play partners appointed by LSS.
 
 ### 1.2 Formats <a href="#1.2" id="1.2">#</a>
 
@@ -81,15 +94,15 @@ For detailed information on which cards are legal in official formats, please vi
 
 Flesh and Blood uses two separate rating systems, XP and ELO, to track player performance in official tournaments.
 
-**XP - Casual and Professional**
+**XP**
 
-Both Casual and Professional tournaments use the “XP” rating system. XP is gained for match wins. No XP is lost upon a match loss or draw. 
+All tournaments use the “XP” rating system. XP is gained for match wins. No XP is lost upon a match loss or draw.
 
-XP is used to rank players on a global XP leaderboard, and is used to qualify players to Professional tournaments among other things.
+XP is used to rank players on a global XP leaderboard and is used to qualify players for Professional tournaments among other things.
 
-**ELO - Professional**
+**ELO**
 
-Only Professional tournaments use the ELO rating system.
+Only Competitive and Professional tournaments use the ELO rating system.
 
 A players ELO rating is influenced by match wins, losses, and draws. The amount of ELO rating points a player can gain or lose in any given match is dependent on the comparative ELO rating of their opponent.
 
@@ -109,7 +122,7 @@ Tournaments are separated into rounds. Every round, each player plays a match ag
 Information that is tracked throughout the tournament for each player includes:
 
 * Total match points = sum of all Wins and Byes
-* Cumulative tiebreaker (CTB) = tiebreaker last round / 4 + total match-win points
+* Cumulative tiebreaker (CTB) = weighted average of a player’s match wins at the end of each round
 * Player match loss % (PML) = Player total losses / total matches played
 * Player’s average opponent match loss % (OML%) = sum (PML of each opponent played so far) / number of opponents played
 * Player’s average opponent CTB (OCTB) = sum (CTB for each opponent played so far) / number of opponents played
@@ -325,7 +338,7 @@ If game wins of an elimination match consisting of more than 1 game is tied afte
 
 ### 3.4 Conceding <a href="#3.4" id="3.4">#</a>
 
-A player may concede, for any reason, at any point before or during a match, but not when time is called in a round. This is to prevent a “concession period” where a match becomes a discussion on who should concede to avoid a draw. In instances where a player wants to concede after time is called, the player will not be dropped if there is a genuine reason why they need to stop playing the current match; Examples include but are not limited to:
+A player may concede, for any reason, at any point before or during a match, but not after time is called in a round. This is to prevent a “concession period” where a match becomes a discussion on who should concede to avoid a draw. Players may concede for any reason after time is called for the round, but after either player makes an in-game action or decision, the game must continue to completion. In instances where a player wants to concede after time is called, the player will not be dropped if there is a genuine reason why they need to stop playing the current match; Examples include but are not limited to:
 
 * There is an emergency that requires the attention of the player
 * A player doesn't feel well
@@ -364,17 +377,21 @@ If a Judge pauses a match for any reason while the round timer is running, the p
 
 ### 3.7 Deck Registration <a href="#3.7" id="3.7">#</a>
 
-Deck / card pool registration is required for all Professional tournaments. It is only required for Casual tournaments if specified by the Tournament Organizer (TO).
+Deck / card pool registration is required for all Professional tournaments and Competitive constructed tournaments. It is only required for Competitive limited and other Casual tournaments if specified by the Tournament Organizer (TO).
 
-| Tournament Level | Format | Deck / Card Pool Registration Required |
+| Rules Level | Format | Deck / Card Pool Registration Required |
 | --- | --- | --- |
 | Professional | Constructed | Yes |
 | Professional | Limited | Yes |
-| Casual | Constructed | No, unless specified by the Tournament Organizer |
-| Casual | Limited | No, unless specified by the Tournament Organizer |
+| Competitive | Constructed | Yes |
+| Competitive | Limited | No\* |
+| Casual | Constructed | No\* |
+| Casual | Limited | No\* |
 | Casual | Welcome Deck | No |
 
-When deck registration is required, the deck list and information contained therein becomes the property of the TO upon the player's submission of the deck list to a tournament official. A player may decline to submit a deck list. If they do, they will not be eligible to participate if the event requires deck registration. Deck lists at all professional level tournaments must be provided using full English card names, card monikers and abbreviations are not allowed; casual level tournaments may use localized or English card names.
+\* Unless specified by the Tournament Organizer 
+
+When deck registration is required, the deck list and information contained therein becomes the property of the TO upon the player's submission of the deck list to a tournament official. A player may decline to submit a deck list. If they do, they will not be eligible to participate if the event requires deck registration. Deck lists at all professional level tournaments must be provided using full English card names, card monikers and abbreviations are not allowed; casual and competitive level tournaments may use localized or English card names.
 
 **Constructed Formats**
 
@@ -383,22 +400,22 @@ If deck registration is required for a constructed format, the deck list must cl
 It is required that cards are grouped as follows on the deck registration sheet:
 
 * All equipment and weapons together
-* All cards with pitch value 1 (red) together
+* All cards with pitch value 1 (red) and no pitch value together
 * All cards with pitch value 2 (yellow) together
 * All cards with pitch value 3 (blue) together
 
-Failure to group cards as shown, may result in penalties. It is recommended that players use the official deck registration sheet available in the [Rules and Policy Center](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/).
+Failure to group cards as shown, may result in penalties. It is recommended that players use the official deck registration sheet available in the Rules and Policy Center.
 
 **Limited Formats**
 
-For limited formats, if players are required to register their card pool, it is recommended that the TO provide players with the appropriate card pool registration sheet available in the [Rules and Policy Center](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/).
+For limited formats, if players are required to register their card pool, it is recommended that the TO provide players with the appropriate card pool registration sheet available in the Rules and Policy Center.
 
-When card pool registration is required, players must record the quantity of all non-token cards in their card pool, separated by name and pitch value (if applicable). Players are not required to register a deck, only the hero they will play for the duration of the tournament *(note - not being able to change your hero between rounds is only applicable when card pool registration is required)*.
+When card pool registration is required, players must record the quantity of all non-token cards in their card pool, separated by name and pitch value (if applicable). Players are not required to register a deck, only the hero they will play for the duration of the tournament (note - not being able to change your hero between rounds is only applicable when card pool registration is required).
 
 **Submitting Deck / Card Pool Registration Sheets**
 
-When constructed format deck registration is required, the deck registration sheet must be submitted to a tournament official before the first round of the tournament begins. This includes players that have been awarded a bye in the first round. 
- 
+When constructed format deck registration is required, the deck registration sheet must be submitted to a tournament official before the first round of the tournament begins. This includes players that have been awarded a bye in the first round.
+
 When limited format card pool registration is required, the card pool registration sheet must be submitted to a tournament official before the end of deck construction.
 
 All deck / card pool registration sheets must clearly display the players name and GEM player ID number.
@@ -417,13 +434,13 @@ A player may use plastic card sleeves on their cards provided they are all of eq
 
 Players may use up to two sleeves per card in order to maintain the condition of their cards. Typically, this would be a ‘perfect fit’ style sleeve with a standard card size sleeve over the top. If a Judge deems the type of sleeves used to be excessive, or that the sleeves used allow for cards to be distinguished from one another, the Judge may require a player to change sleeves.
 
-In Professional tournaments, the Head Judge may enforce all players to be required to use sleeves. 
+In Competitive and Professional tournaments, the Head Judge may enforce all players to be required to use sleeves.
 
 Players are responsible for ensuring their sleeves and/or cards are not marked in any way during a tournament. A card or sleeve is considered marked if it is possible to differentiate the card or sleeve from other cards in the same deck.
 
-Judges will be on the lookout for marked cards during the tournament, including deck checks, to ensure the integrity of the tournament is upheld. During a match, a player may alert a judge if they suspect the opponent’s cards or sleeves are marked in a way that would give that player an advantage. It is at the Judge’s discretion if that player may continue using those sleeves as well as any further penalties. 
+Judges will be on the lookout for marked cards during the tournament, including deck checks, to ensure the integrity of the tournament is upheld. During a match, a player may alert a judge if they suspect the opponent’s cards or sleeves are marked in a way that would give that player an advantage. It is at the Judge’s discretion if that player may continue using those sleeves as well as any further penalties.
 
-Sleeves with holographic or reflective patterns are not recommended at Professional or Casual tournaments.
+Sleeves with holographic or reflective patterns are not recommended for any level of tournament.
 
 Cards that are not included in your deck zone, such as hero cards, equipment and weapons, are not required to be in the same color sleeves as your cards in your deck zone. Cards that are not included in your deck zone, may be contained within heavy plastic cases, so long as they do not impeded game play space in an unreasonable way.
 
@@ -533,7 +550,7 @@ There are many cards in Flesh and Blood that become or create permanents in the 
 
 ### 4.5 Tokens <a href="#4.5" id="4.5">#</a>
 
-At professional level tournaments, if you are playing with cards that create tokens, you are required to have the appropriate token card(s) to represent them. If your deck is able to create multiple instances of the same token, you may use a dice placed on top of the token card to represent how many of that token you control.
+At Competitive and Professional level constructed tournaments, if you are playing with cards that create tokens, you are required to have the appropriate token card(s) to represent them. If your deck is able to create multiple instances of the same token, you may use a dice placed on top of the token card to represent how many of that token you control.
 
 A token should only be present in the play-space if it currently exists. A token should not be in the play-space (including under other cards in the play-space) if they do not represent objects in the current game. Eg. If you are playing a Runeblade hero, a Runechant should only be in the arena if you control 1 or more Runechant tokens. You should not start the game with a token relevant to your hero (such as Spectral Shield or Runechant) in the arena, then add counters to this token once they are created.
 
@@ -638,7 +655,7 @@ Examples include (but are not limited to):
 
 A booster draft begins with all players sitting next to each other in a circular formation (referred to as a draft pod). Each player is required to have 3 booster packs in front of them that are identical to every other player in the draft. The recommended number of players for a booster draft is 8.
 
-Simultaneously, all players in the draft pod open 1 of their 3 packs and remove the token card from the pack. Players then choose (draft) 1 card from among the cards remaining in the pack and place it face down into a single pile in front of them. The cards remaining in the pack are then shuffled and passed to the player seated on their left. Players pick up the cards passed to them, and repeat this process until all cards in the pack have been drafted.
+Simultaneously, all players in the draft pod open 1 of their 3 packs and remove the token card from the pack. Players then choose (draft) 1 card from among the cards remaining in the pack and place it face down into a single pile in front of them. The cards remaining in the pack are then shuffled and passed to the player seated on their left. Players pick up the cards passed to them, and repeat this process until all cards in the pack have been drafted.
 
 The second pack is drafted the same as the first pack with the exception that packs are passed to the player seated on the right after each card is drafted.
 
@@ -646,11 +663,13 @@ The third pack is drafted the same as the first pack (passing to the left).
 
 Once a card has been placed face down into a player’s pile, that draft pick is considered to be locked in. It may not be swapped with another card from the pack.
 
+Some draftable booster sets contain one or more double-faced cards (DFC), which has an additional set of procedures. In a Casual or Competitive level tournament, players may start with a token in their face-down pile. When a player opens or is passed a pack that contains a DFC, they can not reveal or otherwise convey that their pack contains a DFC. When a player drafts a DFC, they must do so by putting it under another card in their face-down pile (which may include a token), to prevent it from being the top card of their pile. Players are not allowed to actively seek to discover who has a DFC in their current pack, or who has drafted a DFC that pick. In Professional level tournaments, packs should be opened in advance with DFC cards replaced by an appropriate placeholder card indicating the correct DFC, then packs should be repackaged to be used specifically for the draft. Players that have drafted placeholder cards are given the DFC it represented in the pack prior to any deck construction.
+
 Players may not look at the face down pile of cards they have drafted while the drafting of cards is in progress, unless the Head Judge has specifically announced that this is allowed.
 
 After all cards in the first and second packs have been drafted, there is a review period where players may look at the cards they have drafted. The recommended time limit for the review period is 1 minute. At the conclusion of the review period, players place the cards they have drafted face down in a single pile in front of them. Players may change the order of the cards they have drafted.
 
-After the final pack is drafted, players construct a 30-card minimum deck using only the cards they have drafted. If a player cannot construct a 30-card minimum deck from the cards they have drafted, they add Cracked Baubles to their deck until the number of cards in their deck is at least 30. The recommended time limit for booster draft deck construction is 15 minutes. *(For more information about limited format deck construction, see section 6.3.)*
+After the final pack is drafted, players construct a 30-card minimum deck using only the cards they have drafted. In some booster sets, additional cards may be added to the players. If a player cannot construct a 30-card minimum deck from the cards they have drafted, they add Cracked Baubles to their deck until the number of cards in their deck is at least 30. The recommended time limit for booster draft deck construction is 15 minutes. *(For more information about limited format deck construction, see section 6.3.)*
 
 The cards a player drafts are referred to as a player’s **card pool**. Players keep the cards they draft unless announced otherwise by the Tournament Organizer before the start of the draft.
 
@@ -663,10 +682,11 @@ While the draft is in progress, players may not disclose, or seek to gain inform
 
 Players may only play against other players within the same draft pod.
 
-**Drafting Timing - Casual Tournaments**
+**Drafting Timing - Casual and Competitive Tournaments**
 
-Casual tournament booster drafts will not be timed unless specified as a requirement for the event by LSS. Players are expected to draft at a comfortable pace, but are encouraged not to dawdle to prevent the draft from extending indefinitely. 
-Players should draft and pass packs at a comfortable pace that does not adversely affect the overall pace of the draft for other players at the table. For example, a player is drafting too slowly if there is a build up of 3 or more piles of cards waiting for them to draft from.
+Casual tournament booster drafts will not be timed, but Competitive tournaments may be timed if specified as a requirement for the event by LSS. Players are expected to draft at a comfortable pace, but are encouraged not to dawdle to prevent the draft from extending indefinitely.
+
+Players should draft and pass packs at a comfortable pace that does not adversely affect the overall pace of the draft for other players at the table. For example, a player is drafting too slowly if there is a build up of 3 or more piles of cards waiting for them to draft from. 
 
 **Drafting Timing - Professional Tournaments**
 
@@ -674,7 +694,7 @@ Professional tournament booster drafts will be timed. The table below sets out t
 
 All players must have drafted a card, placing it face down into their draft pile, within the time limit. If a player is consistently taking more than the time limit to draft a card, they may be subject to penalties.
 
-Players may not open or pick up a pack passed to them, until the Judge overseeing the draft pod announces players may do so. It’s from the Judges announcement, that the timer starts for the next draft pick. The Judge may announce to pick up the next pack before the time limit has expired, if all players have completed their draft pick from the current pack.
+Players may not open or pick up a pack passed to them, until the Judge overseeing the draft pod announces players may do so. It’s from the Judge's announcement, that the timer starts for the next draft pick. The Judge may announce to pick up the next pack before the time limit has expired if all players have completed their draft pick from the current pack.
 
 | Number of cards remaining in pack | Recommended time to draft |
 | --- | --- |
@@ -704,7 +724,7 @@ Players must construct a 30-card minimum deck using only the contents of the boo
 
 Decks in limited format tournaments must contain a minimum of 30 cards (not including hero, weapon(s), and equipment cards). There is no maximum deck size.
 
-The recommended time limit for booster draft deck construction is 15 minutes. 
+The recommended time limit for booster draft deck construction is 15 minutes.
 
 The recommended time limit for sealed deck construction is 30 minutes.
 
@@ -716,17 +736,15 @@ When card pool registration is required, players must choose and register the he
 
 A deck may only contain generic cards and cards with the same class and/or talent as your hero card.
 
-Players must construct their deck and choose equipment, using only cards from their card pool. The exception to this is young hero cards, weapon cards, and Cracked Bauble. *(see section 6.4 for more information about young hero and weapon cards, and section 6.5 for more information about Cracked Bauble.)*
+Players must construct their deck and choose equipment, using only cards from their card pool. The exception is cards with token rarity, including hero cards, weapons cards, and Cracked Baubles.
 
 A limited format deck may contain any number of copies of each unique card (unlike constructed formats). For example, if your sealed pool contains 5 copies of Scar for a Scar (1), you may include all 5 copies in your deck. The exception to this are cards with the keyword **Legendary** *(You may only have 1 [CARD NAME] in your deck.)*. Players may not have more than 1 copy of each unique card with the **Legendary** keyword in their deck.
 
-### 6.4 Heroes and Weapons <a href="#6.4" id="6.4">#</a>
+### 6.4 Token-Rarity Cards <a href="#6.4" id="6.4">#</a>
 
-Players may add young hero and weapon card(s) to their card pool during deck construction. Cards added this way are usually from a publicly available pool of young hero and weapon token cards provided by the Tournament Organizer or by pooling the token cards opened between all players in the event.
+Players may add cards with the token-rarity to their card pool during deck construction. Cards added this way are usually from a publicly available pool of token-rarity cards provided by the Tournament Organizer or by pooling the token cards opened between all players in the event.
 
-Young hero and weapon token cards are plentifully available in booster packs. Each booster pack contains 1 token card.
-
-Players may provide their own young hero and/or weapon cards.
+Token-rarity cards used for limited formats typically include young hero cards and weapon cards, which are plentifully available in booster packs. In some sets, other token rarity cards may be available to be added to the player’s card pool, including equipment (e.g. Helio’s Mitre) or cards that start in the deck (e.g. Phoenix Flame). Each booster pack designed for the limited format contains at least 1 token card and players may provide their own token-rarity cards for the set.
 
 ### 6.5 Cracked Bauble <a href="#6.5" id="6.5">#</a>
 
@@ -806,13 +824,15 @@ The following people are not eligible to play in any Flesh and Blood tournaments
 
 **Employees of Legend Story Studios**
 
-Employees and independent contractors of Legend Story Studios (LSS), and their spouses and legal dependents, are not eligible to participate in Professional tournaments unless a special dispensation has been granted in writing by Legend Story Studios.
+Employees and independent contractors of Legend Story Studios (LSS) are not eligible to participate in Professional tournaments unless a special dispensation has been granted in writing by Legend Story Studios.
 
-In addition to this, whenever an employee or independent contractor of LSS (but not extending to their spouse or legal dependents) attends a Casual tournament, they must introduce themselves and make their position known to the Tournament Organizer, who at their discretion, may deny them entry into the event.
+In addition to this, whenever an employee or independent contractor of LSS attends a Casual tournament, they must introduce themselves and make their position known to the Tournament Organizer, who at their discretion, may deny them entry into the event.
 
-### 7.4 Suspended Players <a href="#7.4" id="7.4">#</a>
+### 7.4 Banned and Suspended Players <a href="#7.4" id="7.4">#</a>
 
-Suspended players are not allowed to attend, spectate, or judge Flesh and Blood events. If a suspended player attends a Flesh and Blood event, they will be asked to leave the venue and risk their suspension being extended.
+Banned players are not allowed to attend, spectate, or judge Flesh and Blood events. If a banned player attends a Flesh and Blood event, they will be asked to leave the venue and risk their suspension being extended.
+
+Suspended players may still participate in tier 1 events, and they may attend and spectate any Flesh and Blood event. Suspended players are prohibited from playing in any tier 2+ events.
 
 ### 7.5 Prohibited Items <a href="#7.5" id="7.5">#</a>
 
@@ -852,7 +872,7 @@ Whenever a card receives errata it will be announced via a card errata bulletin 
 
 ### 8.4 Proxy Cards <a href="#8.4" id="8.4">#</a>
 
-Proxy cards are not permitted in official play.
+Proxy cards are not permitted in official play, unless officially issued by the Head Judge of the event.
 
 The Head Judge may issue a proxy card to a player at their discretion. In this case, the proxy card will be used during the tournament to represent an official Flesh and Blood card. The card is only legal for the duration of the tournament it is issued. Examples of when a proxy card may be issued are (but not limited to):
 
@@ -874,5 +894,15 @@ Altered art cards are legal in official tournament play so long as the modificat
 
 Printed cards are not physical modifications of official Flesh and Blood cards, and thus are not legal for tournament play (See 8.4 Proxy Cards). This does not apply to cards with the token type (not to be confused with token rarity, see 4.5 Tokens).
 
-[#### Change Log - Tournament Rules and Policy 11th Feb 2022](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/change-log-tournament-rules-and-policy/)
+### 8.7 Double-Faced and Placeholder cards <a href="#8.7" id="8.7">#</a>
+
+Double-faced cards (DFC) are cards with another card face on the back side instead of a Flesh and Blood cardback. When a player includes a DFC in their deck, the DFC must be sleeved in a card sleeve with an opaque back. When the card would be flipped and its back face would represent the card object in the game, the card should be taken out of the sleeve and put back in the sleeve in the flipped orientation. The reverse should happen when the card would be flipped back to its front face, such as when it would be put back into the deck.
+
+Players may instead sleeve the DFC to use its front-face, and then have an identical DFC sleeved to use the back-face. Whenever the front-face DFC in the deck would be flipped, it is swapped out with back-face DFC; then when it would be flipped back again, the front-face DFC is swapped back in to replace the back-face DFC. The back-face DFC must be sleeved differently from the rest of the deck to ensure that it is not confused with cards that belong in the player’s deck during the game.
+
+Alternatively, a placeholder card can be used in place of the front-face DFC in the deck. A placeholder is designed to represent a DFC, without the DFC without requiring the player to unsleeve the DFC just to flip it over, or have a second copy of the DFC. Placeholder cards are cards that identify a single DFC by specifying the name of the back-face, and the numerical properties of its front-face, such as color bar, pitch, cost, and defense. Unofficial place-holder cards may be used in Casual formats.
+
+On official placeholder cards, a player makes a mark in the box next to the single DFC they want the placeholder to represent. Then they sleeve the card as a card to be used in their deck and the DFC it represents in a different sleeve. When the player draws this card and decides to play it, or when it goes to the graveyard (such as after defending), the player then swaps it out with the actual DFC it represents (in the correct orientation). If the DFC would go back into the deck/hand/arsenal, the placeholder card can be swapped in again to represent the card in the deck/hand/arsenal.
+
+[#### Change Log - Tournament Rules and Policy 20th Jun 2022](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/change-log-tournament-rules-and-policy/)
 

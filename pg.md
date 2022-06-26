@@ -4,6 +4,15 @@ Original available at [https://fabtcg.com/resources/rules-and-policy-center/pena
 
 
 
+Procedure and Penalty Guide preview (active from 27th June 2022)
+----------------------------------------------------------------
+
+[#### Procedure and Penalty Guide preview Last updated 16 June, 2022](https://storage.googleapis.com/fabmaster/media/documents/FaB_Procedure_and_Penalty_Guide_2022_06_16_p2.pdf)
+
+[#### Procedure and Penalty Guide preview (accessible) Last updated 16 June, 2022](https://storage.googleapis.com/fabmaster/media/documents/FaB_Procedure_and_Penalty_Guide_2022_06_16_p2_access.pdf)
+
+[#### Change Log - Penalty Guidelines 11th Feb 2022](https://fabtcg.com/resources/rules-and-policy-center/penalty-guidelines/change-log-penalty-guidelines/)
+
 Introduction
 ------------
 
@@ -754,6 +763,4 @@ A suspended player is constantly considered subject to review and can have their
 Infractions resulting in suspension or banning do not need to have occurred inside an LSS event venue. LSS reserves the right to suspend players from LSS events for behavior that is believed to negatively impact the Flesh and Blood community.
 
 If a player is charged with a criminal offense, regardless if it took place at a tournament or not, LSS may automatically suspend that player if deemed reasonable by the LSS Penalty Committee.
-
-[#### Change Log - Penalty Guidelines 11th Feb 2022](https://fabtcg.com/resources/rules-and-policy-center/penalty-guidelines/change-log-penalty-guidelines/)
 
