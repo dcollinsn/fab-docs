@@ -3,7 +3,7 @@ Flesh and Blood Tournament Rules and Policy, courtesy of Legend Story Studios.
 Original available at [https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/](https://fabtcg.com/resources/rules-and-policy-center/tournament-rules-and-policy/)
 
 
-[Tournament Rules and Policy 1.9](https://fabtcg.com/documents/158/2022_06_20_Tournament_Rules_and_Policy_1.9_FINAL.pdf)
+[Tournament Rules and Policy 1.10](https://fabtcg.com/documents/175/2022_08_08_Tournament_Rules_and_Policy_1.10_FINAL.pdf)
 
 ## Introduction
 
@@ -13,35 +13,13 @@ The purpose of this document is to provide transparency of rules, responsibiliti
 
 Updates to this document are scheduled to coincide with the release date of each major booster set. Updates whether scheduled or otherwise, will be announced through an update bulletin posted to the homepage of fabtcg.com. Changes to this document since its last publication are shown in summary of changes below.
 
-## Summary of Changes 20 June 2022
+## Summary of Changes 8 August 2022
 
-**1.1 Tournament Types:** Significant rewrite to incorporate the new casual and competitive REL.
+**3.9 Sleeves:** Added a note about the subjectivity of evaluating marked cards and that more leniency should be exercised at casual level tournaments.
 
-**1.3 Ratings:** Updated XP and ELO sections to reflect when they are relevant in the new REL system.
+**6.1 Booster Draft:** Updated to restrict repackaging boosters for draft to tier 4 tournaments and at LSS’s discretion, and that the repacking is performed by LSS.
 
-**1.4 Scores, Standings and Tiebreakers:** Corrected Cumulative Tiebreaker to reflect the actual system used by the tiebreakers in the software.
-
-**3.4 Conceding:** Updated concession policy to allow players to concede AFTER time is called, if no in-game action has been taken. Once an action is taken, the player’s are committed to finishing the game and can not concede without a good reason.
-
-**3.7 Deck Registration:** Updated policy to incorporate new casual and competitive REL. Corrected requirement for 0 pitch cards to be included with 1 pitch (red) cards.
-
-**3.9 Sleeves:** Updated policy to incorporate new casual and competitive REL.
-
-**4.5 Tokens:** Updated policy to incorporate new casual and competitive REL.
-
-**6.1 Booster Draft:** Updated policy to incorporate new casual and competitive REL. Added policy surrounding sets that contain double-faced cards and token-rarity cards other than heroes and weapons.
-
-**6.3 Deck Construction:** Updated policy to include token-rarity cards other than heroes and weapons.
-
-**6.4 Token-Rarity Cards:** Updated section title and policy to include token-rarity cards other than heroes and weapons.
-
-**7.3 Tournament Eligibility:** Removed policy that prevented family of LSS members tournaments without special exceptions.
-
-**7.4 Banned and Suspended Players:** Updated section title. Corrected section to reflect the banned and restricted statuses more accurately.
-
-**8.4 Proxy Cards:** Updated paragraph to clarify that proxy cards are legal for the tournament they are issued for (by the Head Judge)
-
-**8.7 Double-Faced and Placeholder cards:** Added section that covers double-faced cards.
+**8.4 Proxy Cards:** Updated to expand proxies being issued in exceptional circumstances where it would be unreasonable for the player to acquire replacements for the marked cards, such as when a non-foil version of the card exists but it would be unreasonable to expect the player to acquire it during the tournament.
 
 ## 1 Tournament Information <a href="#1" id="1">#</a>
 
@@ -436,7 +414,7 @@ Players may use up to two sleeves per card in order to maintain the condition of
 
 In Competitive and Professional tournaments, the Head Judge may enforce all players to be required to use sleeves.
 
-Players are responsible for ensuring their sleeves and/or cards are not marked in any way during a tournament. A card or sleeve is considered marked if it is possible to differentiate the card or sleeve from other cards in the same deck.
+Players are responsible for ensuring their sleeves and/or cards are not marked in any way during a tournament. A card or sleeve is considered marked if it is possible to differentiate the card or sleeve from other cards in the same deck. The head judge is responsible for determining the threshold for cards being considered marked - they should be more lenient in casual level tournaments and more rigorous in professional level tournaments.
 
 Judges will be on the lookout for marked cards during the tournament, including deck checks, to ensure the integrity of the tournament is upheld. During a match, a player may alert a judge if they suspect the opponent’s cards or sleeves are marked in a way that would give that player an advantage. It is at the Judge’s discretion if that player may continue using those sleeves as well as any further penalties.
 
@@ -663,7 +641,9 @@ The third pack is drafted the same as the first pack (passing to the left).
 
 Once a card has been placed face down into a player’s pile, that draft pick is considered to be locked in. It may not be swapped with another card from the pack.
 
-Some draftable booster sets contain one or more double-faced cards (DFC), which has an additional set of procedures. In a Casual or Competitive level tournament, players may start with a token in their face-down pile. When a player opens or is passed a pack that contains a DFC, they can not reveal or otherwise convey that their pack contains a DFC. When a player drafts a DFC, they must do so by putting it under another card in their face-down pile (which may include a token), to prevent it from being the top card of their pile. Players are not allowed to actively seek to discover who has a DFC in their current pack, or who has drafted a DFC that pick. In Professional level tournaments, packs should be opened in advance with DFC cards replaced by an appropriate placeholder card indicating the correct DFC, then packs should be repackaged to be used specifically for the draft. Players that have drafted placeholder cards are given the DFC it represented in the pack prior to any deck construction.
+Some draftable booster sets contain one or more double-faced cards (DFC), which has an additional set of procedures. In a Casual or Competitive level tournament, players may start with a token in their face-down pile. When a player opens or is passed a pack that contains a DFC, they can not reveal or otherwise convey that their pack contains a DFC. When a player drafts a DFC, they must do so by putting it under another card in their face-down pile (which may include a token), to prevent it from being the top card of their pile. Players are not allowed to actively seek to discover who has a DFC in their current pack, or who has drafted a DFC that pick.
+
+In tier 4 tournaments or at the discretion of LSS, packs will be opened in advance with DFC cards replaced by an appropriate placeholder card indicating the correct DFC, then packs should be repackaged by LSS to be used specifically for the draft. Players that have drafted placeholder cards are given the DFC it represented in the pack prior to any deck construction.
 
 Players may not look at the face down pile of cards they have drafted while the drafting of cards is in progress, unless the Head Judge has specifically announced that this is allowed.
 
@@ -872,15 +852,13 @@ Whenever a card receives errata it will be announced via a card errata bulletin 
 
 ### 8.4 Proxy Cards <a href="#8.4" id="8.4">#</a>
 
-Proxy cards are not permitted in official play, unless officially issued by the Head Judge of the event.
-
-The Head Judge may issue a proxy card to a player at their discretion. In this case, the proxy card will be used during the tournament to represent an official Flesh and Blood card. The card is only legal for the duration of the tournament it is issued. Examples of when a proxy card may be issued are (but not limited to):
+Proxy cards are not permitted in official play, unless officially issued by the Head Judge of the event. The Head Judge may issue a proxy card to a player at their discretion. A proxy issued this way is used during the tournament to represent an official Flesh and Blood card. The card is only legal for the duration of the tournament it is issued. Examples of when a proxy card may be issued are (but not limited to):
 
 * A player opens a damaged card in a booster pack during a limited format.
 * A player’s card is damaged by their opponent.
-* Printed tokens at a casual level limited event.
+* Token-rarity cards at a limited event when the tournament organizer fails to supply official cards.
 * Printed Ira Welcome decks at a Learn to Play event.
-* Exceptional circumstances where a legal card is only available printed with a foil finish and the foiling is the root cause of warping causing the card to be marked in the deck.
+* A player plans to use a foil card, the foiling is the cause of it being marked in the deck, and there is no non-foil version of the card or it would be unresonable to expect the player to find a substitute.
 
 ### 8.5 Misprinted Cards <a href="#8.5" id="8.5">#</a>
 
